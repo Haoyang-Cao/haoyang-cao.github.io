@@ -31,7 +31,7 @@ My research interests can be roughly divided into two categories. One is about *
 
 #### Preprints
 
-- Haoyang Cao, Yuchao Dong, and Zhouhao Yang **[A Two-fold Randomization Framework for Impulse Control Problems](https://arxiv.org/abs/2509.12018)**. Submitted, 2025
+- Haoyang Cao, Yuchao Dong, and Zhouhao Yang. **[A Two-fold Randomization Framework for Impulse Control Problems](https://arxiv.org/abs/2509.12018)**. Submitted, 2025
 
 - Haoyang Cao, Haotian Gu, Xin Guo, and Mathieu Rosenbaum. **[Risk of transfer learning and its applications in finance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4624427)**. Revision, 2025.
 
