@@ -7,10 +7,14 @@ permalink: /teaching/
 **At Hopkins, I am teaching and have taught the following courses.**
 
 - **Gradauate Level**:
+  - EN.553.745 Stochastic Controls, Games, and Learning I--II, Fall 2025-- Spring 2026, co-taught by Prof. Luhao Zhang
 
   - EN.553.701 Real Analysis: Preparation for the Ph.D. Introductory Examination, Fall 2024
 
-  - EN.553.640 Machine Learning in Finance, Spring 2024
+  - EN.553.640 Machine Learning in Finance, Spring 2024, Spring 2025
+ 
+- ** Undergraduate Level**:
+  - EN.553.101 Freshman Experience in Applied Mathematics & Statistics, Fall 2025
 
 My past experiences as teaching assistant at UC Berkeley cover undergraduate to PhD level probability and stochastic processes, including topics such as random variables, Markov chain, Poisson process, renewal process, martingale, Brownian motion, Itô calculus, etc. I am also interested in offering courses in financial engineering, simulation and machine learning.
 
