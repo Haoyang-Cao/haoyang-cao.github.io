@@ -11,6 +11,8 @@ My research interests can be roughly divided into two categories. One is about *
 
 #### Publications
 
+- Haoyang Cao, Zhengqi Wu, and Renyuan Xu. **[Inference of Utilities and Time Preference in Sequential Decision-Making](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4840776)**. *Applied Mathematics and Optimization* To appear, 2025.
+
 - Haoyang Cao, Xin Guo and Mathieu Lauriere. **[Connecting GANs, mean-field games and optimal transport](https://epubs.siam.org/doi/full/10.1137/22M1499534)**. *SIAM Journal on Applied Mathematics* 84(4), pp. 1255-1287, 2024.
 
 - Haoyang Cao and Xin Guo. **[SDE approximations of GANs training and its long-run behavior](https://arxiv.org/pdf/2006.02047)**. *Journal of Applied Probability* 61(2), pp. 465-489, 2023.
@@ -29,14 +31,14 @@ My research interests can be roughly divided into two categories. One is about *
 
 #### Preprints
 
-- Haoyang Cao, Zhengqi Wu, and Renyuan Xu. **[Inference of Utilities and Time Preference in Sequential Decision-Making](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4840776)**. Submitted, 2024.
+- Haoyang Cao, Yuchao Dong, and Zhouhao Yang **[A Two-fold Randomization Framework for Impulse Control Problems](https://arxiv.org/abs/2509.12018)**. Submitted, 2025
 
-- Haoyang Cao, Haotian Gu, Xin Guo. **Feasibility and risk of transfer learning: a mathematical framework**. Working paper, 2024.
+- Haoyang Cao, Haotian Gu, Xin Guo, and Mathieu Rosenbaum. **[Risk of transfer learning and its applications in finance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4624427)**. Revision, 2025.
+
+- Haoyang Cao, Minshuo Chen, Yinbin Han, and Renyuan Xu. **Diffusion model for Adapted Sequential Data Generation**. Working paper, 2025.
 
 - Haoyang Cao, Xin Guo and Guan Wang. **[Meta-learning with GANs for anomaly detection, with deployment in high-speed rail inspection system](https://arxiv.org/pdf/2202.05795)**. Working paper, 2024.
 
 - Guan Wang, Yusuke Kikuchi, Haoyang Cao, Jinglin Yi, Qiong Zou, Rui Zhou, and Xin Guo. **Transfer learning for retinal vascular disease detection: a pilot study with diabetic retinopathy and retinopathy of prematurity**. Working paper, 2024.
-
-- Haoyang Cao, Haotian Gu, Xin Guo, and Mathieu Rosenbaum. **[Risk of transfer learning and its applications in finance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4624427)**. Submited, 2023.
 
 - Qinkai Chen, Mohamed El-Mennaoui, Antoine Fosset, Amine Rebei, Haoyang Cao, Philine Bouscasse, Christy Eóin O'Beirne, Sasha Shevchenko, and Mathieu Rosenbaum. **Towards mapping the contemporary art world with ArtLM: an art-specific NLP model**. Submitted, 2023.
