@@ -6,7 +6,7 @@ permalink: /events/
 Here is a list conferences, workshops and seminars that I have been on the organizing committee.
 - **JMM2026 AWM Special Session on Recent Trends of Stochastic Methods in Modern Generative AI**, Washington D.C., Jan 2026
 
-- **2026 INFORMS Annual Meeting -- Generative AI in Finance**, Atlanta GA, Oct 2025
+- **2025 INFORMS Annual Meeting -- Generative AI in Finance**, Atlanta GA, Oct 2025
 
 - **[AMS Weekly Seminars 2025--2026](https://engineering.jhu.edu/ams/events/)**, Baltimore MD
 
