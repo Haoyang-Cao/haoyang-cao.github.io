@@ -11,7 +11,7 @@ permalink: /teaching/
 
   - EN.553.701 Real Analysis: Preparation for the Ph.D. Introductory Examination, Fall 2024
 
-  - EN.553.640 Machine Learning in Finance, Spring 2024, Spring 2025
+  - EN.553.640 Machine Learning in Finance, Spring 2024, Spring 2025, Spring 2026
  
 - ** Undergraduate Level**:
   - EN.553.101 Freshman Experience in Applied Mathematics & Statistics, Fall 2025
