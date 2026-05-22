@@ -11,7 +11,9 @@ My research interests can be roughly divided into two categories. One is about *
 
 #### Publications
 
-- Haoyang Cao, Zhengqi Wu, and Renyuan Xu. **[Inference of Utilities and Time Preference in Sequential Decision-Making](https://link.springer.com/article/10.1007/s00245-025-10318-7)**. *Applied Mathematics and Optimization* To appear, 2025.
+- Haoyang Cao, Yuchao Dong and Zhouhao Yang. **[A Two-fold Randomization Framework for Impulse Control Problems](https://arxiv.org/abs/2509.12018)**. To appear in *SIAM Journal on Control and Optimization*, 2026.
+
+- Haoyang Cao, Zhengqi Wu, and Renyuan Xu. **[Inference of Utilities and Time Preference in Sequential Decision-Making](https://link.springer.com/article/10.1007/s00245-025-10318-7)**. *Applied Mathematics and Optimization* 92(3), pp. 1-49, 2025.
 
 - Haoyang Cao, Xin Guo and Mathieu Lauriere. **[Connecting GANs, mean-field games and optimal transport](https://epubs.siam.org/doi/full/10.1137/22M1499534)**. *SIAM Journal on Applied Mathematics* 84(4), pp. 1255-1287, 2024.
 
@@ -31,14 +33,18 @@ My research interests can be roughly divided into two categories. One is about *
 
 #### Preprints
 
-- Haoyang Cao, Yuchao Dong, and Zhouhao Yang. **[A Two-fold Randomization Framework for Impulse Control Problems](https://arxiv.org/abs/2509.12018)**. Submitted, 2025
+- Haoyang Cao, Xin Guo, Wenpin Tang and Guan Wang. **[Sample Complexity of Transfer Learning: An Optimal Transport Approach](https://arxiv.org/abs/2605.20545)**. Submitted, 2026.
 
-- Haoyang Cao, Haotian Gu, Xin Guo, and Mathieu Rosenbaum. **[Risk of transfer learning and its applications in finance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4624427)**. Revision, 2025.
+- Haoyang Cao, Gokce Dayanikli, and Xiaofei Shi. **Inverse Learning of the Altruism and Cost Level in Mixed-Individual Mean Field Games**. Submitted, 2026.
 
-- Haoyang Cao, Minshuo Chen, Yinbin Han, and Renyuan Xu. **Diffusion model for Adapted Sequential Data Generation**. Working paper, 2025.
+- Haoyang Cao, Jesse Hoekstra, Renyuan Xu, Yumin Xu, and Ruixun Zhang. **[Scalable Bi-causal Optimal Transport via KL Relaxation and Policy Gradients](https://arxiv.org/abs/2605.17271)**. Preprint, 2026.
 
-- Haoyang Cao, Xin Guo and Guan Wang. **[Meta-learning with GANs for anomaly detection, with deployment in high-speed rail inspection system](https://arxiv.org/pdf/2202.05795)**. Working paper, 2024.
+- Haoyang Cao, Minshuo Chen, Yinbin Han and Renyuan Xu. **Diffusion Models for Adapted Sequential Data Generation (Journal Version)**. Preprint, 2026.
 
-- Guan Wang, Yusuke Kikuchi, Haoyang Cao, Jinglin Yi, Qiong Zou, Rui Zhou, and Xin Guo. **Transfer learning for retinal vascular disease detection: a pilot study with diabetic retinopathy and retinopathy of prematurity**. Working paper, 2024.
+- Haoyang Cao, Minshuo Chen, Yinbin Han and Renyuan Xu. **Diffusion Models for Adapted Sequential Data Generation (Short Version)**. *NeurIPS 2025 Workshop MLxOR: Mathematical Foundations and Operational Integration of Machine Learning for Uncertainty-Aware Decision-Making*, 2025.
 
-- Qinkai Chen, Mohamed El-Mennaoui, Antoine Fosset, Amine Rebei, Haoyang Cao, Philine Bouscasse, Christy Eóin O'Beirne, Sasha Shevchenko, and Mathieu Rosenbaum. **Towards mapping the contemporary art world with ArtLM: an art-specific NLP model**. Submitted, 2023.
+- Haoyang Cao, Haotian Gu, Xin Guo, and Mathieu Rosenbaum. **[Risk of transfer learning and its applications in finance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4624427)**. In revision for *Mathematical Finance*, 2025.
+
+- Haoyang Cao, Zhouhao Yang, and Vladimir Braverman. **Generative model for Heavy-Tailed Distributions**. Working paper, 2026.
+
+- Haoyang Cao and Zhouhao Yang. **Multi-agent system with randomized impulse control**. Working paper, 2026.
