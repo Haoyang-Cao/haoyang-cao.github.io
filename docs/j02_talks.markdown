@@ -5,6 +5,12 @@ permalink: /talks/
 ---
 
 Here is a list of conferences, workshops and seminars where I have been invited to give talks.
+- **2026 SIAM Annual Meeting**, Cleveland, OH, Jul 2026
+
+- **JHU Math Data Science Seminar**, Baltimore, MD, Apr 2026
+
+- **UMBC Applied Math Colloquia**, Baltimore, MD, Apr 2026
+
 - **2026 Joint Mathematics Meetings**, Washington D.C., Jan 2026
 
 - **Mathematical Congress of the Americas 2025**, Miami FL, Jul 2025
