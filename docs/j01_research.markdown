@@ -37,9 +37,9 @@ My research interests can be roughly divided into two categories. One is about *
 
 - Haoyang Cao, Gokce Dayanikli, and Xiaofei Shi. **Inverse Learning of the Altruism and Cost Level in Mixed-Individual Mean Field Games**. Submitted, 2026.
 
-- Haoyang Cao, Jesse Hoekstra, Renyuan Xu, Yumin Xu, and Ruixun Zhang. **[Scalable Bi-causal Optimal Transport via KL Relaxation and Policy Gradients](https://arxiv.org/abs/2605.17271)**. Preprint, 2026.
+- Haoyang Cao, Jesse Hoekstra, Renyuan Xu, Yumin Xu, and Ruixun Zhang. **[Scalable Bi-causal Optimal Transport via KL Relaxation and Policy Gradients](https://arxiv.org/abs/2605.17271)**. Submitted, 2026.
 
-- Haoyang Cao, Minshuo Chen, Yinbin Han and Renyuan Xu. **Diffusion Models for Adapted Sequential Data Generation (Journal Version)**. Preprint, 2026.
+- Haoyang Cao, Minshuo Chen, Yinbin Han and Renyuan Xu. **[Diffusion Models for Adaptive Sequential Data Generation (Journal Version)](https://arxiv.org/pdf/2606.06007)**. Preprint, 2026.
 
 - Haoyang Cao, Minshuo Chen, Yinbin Han and Renyuan Xu. **Diffusion Models for Adapted Sequential Data Generation (Short Version)**. *NeurIPS 2025 Workshop MLxOR: Mathematical Foundations and Operational Integration of Machine Learning for Uncertainty-Aware Decision-Making*, 2025.
 
