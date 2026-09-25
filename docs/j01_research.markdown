@@ -10,6 +10,7 @@ My research interests can be roughly divided into two categories. One is about *
 ### Publications and Preprints
 
 #### Publications
+- Zhouhao Yang, Yezhen Wang, Kenji Kawaguchi, Vladimir Braverman and Haoyang Cao. **[Heavy-Tailed Flow Matching via Random Clocks](https://arxiv.org/pdf/2607.13841)**. To apper in *The Fortieth Annual Conference on Neural Information Processing Systems*, 2026.
 
 - Haoyang Cao, Yuchao Dong and Zhouhao Yang. **[A Two-fold Randomization Framework for Impulse Control Problems](https://arxiv.org/abs/2509.12018)**. To appear in *SIAM Journal on Control and Optimization*, 2026.
 
@@ -44,7 +45,5 @@ My research interests can be roughly divided into two categories. One is about *
 - Haoyang Cao, Minshuo Chen, Yinbin Han and Renyuan Xu. **Diffusion Models for Adapted Sequential Data Generation (Short Version)**. *NeurIPS 2025 Workshop MLxOR: Mathematical Foundations and Operational Integration of Machine Learning for Uncertainty-Aware Decision-Making*, 2025.
 
 - Haoyang Cao, Haotian Gu, Xin Guo, and Mathieu Rosenbaum. **[Risk of transfer learning and its applications in finance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4624427)**. In revision for *Mathematical Finance*, 2025.
-
-- Haoyang Cao, Zhouhao Yang, and Vladimir Braverman. **Generative model for Heavy-Tailed Distributions**. Working paper, 2026.
 
 - Haoyang Cao and Zhouhao Yang. **Multi-agent system with randomized impulse control**. Working paper, 2026.
