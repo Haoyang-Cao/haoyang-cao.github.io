@@ -10,8 +10,13 @@ My research interests can be roughly divided into two categories. One is about *
 ### Publications and Preprints
 
 #### Publications
+
 - Zhouhao Yang, Yezhen Wang, Kenji Kawaguchi, Vladimir Braverman and Haoyang Cao. **[Heavy-Tailed Flow Matching via Random Clocks](https://arxiv.org/pdf/2607.13841)**. To apper in *The Fortieth Annual Conference on Neural Information Processing Systems*, 2026.
 
+- Haoyang Cao, Gokce Dayanikli, and Xiaofei Shi. **Inverse Learning of the Altruism and Cost Level in Mixed-Individual Mean Field Games**. To appear in *The 65th IEEE Conference on Decision and Control*, 2026.
+
+- Haoyang Cao, Xin Guo, Wenpin Tang and Guan Wang. **[Sample Complexity of Transfer Learning: An Optimal Transport Approach](https://arxiv.org/abs/2605.20545)**. *Journal of Applied Mathematics and Computer Science* 1(2), pp.1-11, 2026.
+- 
 - Haoyang Cao, Yuchao Dong and Zhouhao Yang. **[A Two-fold Randomization Framework for Impulse Control Problems](https://arxiv.org/abs/2509.12018)**. To appear in *SIAM Journal on Control and Optimization*, 2026.
 
 - Haoyang Cao, Zhengqi Wu, and Renyuan Xu. **[Inference of Utilities and Time Preference in Sequential Decision-Making](https://link.springer.com/article/10.1007/s00245-025-10318-7)**. *Applied Mathematics and Optimization* 92(3), pp. 1-49, 2025.
@@ -33,10 +38,6 @@ My research interests can be roughly divided into two categories. One is about *
 - Haoyang Cao, Samuel N. Cohen and Lukasz Szpruch. **[Identifiability in inverse reinforcement learning](https://proceedings.neurips.cc/paper/2021/hash/671f0311e2754fcdd37f70a8550379bc-Abstract.html)**. *Advances in Neural Information Processing Systems* 34, 2021.
 
 #### Preprints
-
-- Haoyang Cao, Xin Guo, Wenpin Tang and Guan Wang. **[Sample Complexity of Transfer Learning: An Optimal Transport Approach](https://arxiv.org/abs/2605.20545)**. Submitted, 2026.
-
-- Haoyang Cao, Gokce Dayanikli, and Xiaofei Shi. **Inverse Learning of the Altruism and Cost Level in Mixed-Individual Mean Field Games**. Submitted, 2026.
 
 - Haoyang Cao, Jesse Hoekstra, Renyuan Xu, Yumin Xu, and Ruixun Zhang. **[Scalable Bi-causal Optimal Transport via KL Relaxation and Policy Gradients](https://arxiv.org/abs/2605.17271)**. Submitted, 2026.
 
